@@ -210,10 +210,8 @@ strategies documented by the other sources.
 ## Why This List Works Together
 
 These 10 sources cover the full stack of AI-powered SEO content production 
-from different angles: 
-Foundational Content Strategy: Collin SEO, Nathan Gotch
-AI-specific Workflows: Vasco, Aleyda Solis
-Agency Production Processes: Exposure Ninja, Scalerrs, TM Blast
-B2B Organic Growth: Madhurima Halder 
-Quick-win Tactical Fix: Matt Diamante 
-Unscripted Strategy Conversations: Create and Grow 
+from different angles: foundational content strategy (Collin SEO, Nathan 
+Gotch), AI-specific workflows (Vasco, Aleyda Solis), agency production 
+processes (Exposure Ninja, Scalerrs, TM Blast), B2B organic growth 
+(Madhurima Halder), quick-win tactical fixes (Matt Diamante), and 
+unscripted strategy conversations (Create and Grow).
